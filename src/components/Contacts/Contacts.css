@@ -1,0 +1,17 @@
+#contacts-ctr {
+    padding: 10px 30px 0 30px;
+    background-color: #313c4e;
+    color: white;
+}
+
+#contacts-ctr p {
+    display: inline-block;
+    width: 50%;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+#contacts-ctr p a {
+    color: white;
+    text-decoration: none;
+}

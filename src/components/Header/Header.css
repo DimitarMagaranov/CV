@@ -1,0 +1,23 @@
+#header-ctr {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+}
+
+#img-ctr {
+    height: 130px;
+    width: 130px;
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+}
+
+#img-ctr img {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#name-summary-ctr {
+    width: 80%;
+}
