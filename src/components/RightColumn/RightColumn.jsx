@@ -1,16 +1,16 @@
-import './RightHalf.css';
-import SkillsContainer from './SkillsContainer/SkillsContainer';
+import './RightColumn.css';
+import Skills from './Skills/Skills';
 import PersonalProjects from './PersonalProjects/PersonalProjects';
 import Certificates from './Certificates/Certificates';
 
-const RightHalf = () => {
+const RightColumn = () => {
     return (
         <div id="right-half">
-            <SkillsContainer />
+            <Skills />
             <PersonalProjects />
             <Certificates />
         </div>
     )
 }
 
-export default RightHalf;
+export default RightColumn;

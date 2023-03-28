@@ -1,15 +1,14 @@
 import data from '../../../data.json';
 import Project from './Project/Project';
-import './PersonalProjects.css';
+import UnitContainer from '../../UnitContainer/UnitContainer';
 
 const PersonalProjects = () => {
     return (
-        <div className="half-unit-ctr">
-            <h2>PERSONAL PROJECTS</h2>
+        <UnitContainer title={'PERSONAL PROJECTS'}>
             {data.personalProjects.map((project) => {
                 return <Project key={project.title} data={project} />;
             })}
-        </div>
+        </UnitContainer>
     );
 };
 

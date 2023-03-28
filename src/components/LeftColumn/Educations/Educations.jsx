@@ -1,16 +1,15 @@
 import Education from './Education/Education';
-import './EducationContainer.css';
+import UnitContainer from '../../UnitContainer/UnitContainer';
 import data from '../../../data.json';
 
-const EducationContainer = () => {
+const Educations = () => {
     return (
-        <div className="half-unit-ctr">
-            <h2>EDUCATION</h2>
+        <UnitContainer title={'EDUCATION'}>
             {data.educations.map((education) => {
                 return <Education key={education.title} education={education} />;
             })}
-        </div>
+        </UnitContainer>
     );
 };
 
-export default EducationContainer;
+export default Educations;

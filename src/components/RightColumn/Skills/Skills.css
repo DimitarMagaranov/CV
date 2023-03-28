@@ -1,0 +1,5 @@
+.unit-container.skills-ctr .skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+}

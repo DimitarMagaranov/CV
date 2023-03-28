@@ -1,8 +1,8 @@
-import './WorkExp.css';
+import './Job.css';
 
-const WorkExp = ({ data }) => {
+const Job = ({ data }) => {
     return (
-        <div className="workExp">
+        <div className="job">
             <h3 className="title">- {data.title}</h3>
             <div className="content">
                 <h3 className="company">{data.company}</h3>
@@ -22,4 +22,4 @@ const WorkExp = ({ data }) => {
     );
 };
 
-export default WorkExp;
+export default Job;

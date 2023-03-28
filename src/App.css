@@ -3,14 +3,15 @@
     font-size: 14px;
     margin: auto;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
 }
 
-#halfes {
+#columns {
     padding: 20px 30px;
     display: flex;
 }
 
-div.half-unit-ctr {
+div.unit-container {
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -31,4 +32,12 @@ h3.title {
     text-shadow: 0.5px 0 black;
     letter-spacing: 0.5px;
     margin-bottom: 3px;
+}
+
+h2 {
+    margin: 0;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: #313c4e;
+    text-shadow: 1.5px 0 #313c4e;
 }

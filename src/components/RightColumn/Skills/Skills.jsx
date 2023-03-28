@@ -1,18 +1,18 @@
-import './SkillsContainer.css';
+import './Skills.css';
 import data from '../../../data.json';
 import Skill from './Skill/Skill';
+import UnitContainer from '../../UnitContainer/UnitContainer';
 
-const SkillsContainer = () => {
+const Skills = () => {
     return (
-        <div className="half-unit-ctr skills-ctr">
-            <h2>SKILLS</h2>
+        <UnitContainer title={'SKILLS'}>
             <div className="skills">
                 {data.skills.map((skill) => {
                     return <Skill key={skill} skillName={skill} />;
                 })}
             </div>
-        </div>
+        </UnitContainer>
     );
 };
 
-export default SkillsContainer;
+export default Skills;
