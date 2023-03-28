@@ -6,22 +6,7 @@
     list-style-position: inside;
 }
 
-.duration-and-city-ctr {
-    display: flex;
-    justify-content: space-between;
-}
-
-.education h3 {
-    margin: 0;
-}
-
-.education h3.title {
-    text-shadow: 0.5px 0 black;
-    letter-spacing: 0.5px;
-    margin-bottom: 3px;
-}
-
-.education .content {
+div.content {
     padding-left: 10px;
 }
 
@@ -38,7 +23,6 @@
     font-style: italic;
     font-weight: 600;
     color: #313c4e;
-    padding-right: 50px;
 }
 
 .courses .title {

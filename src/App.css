@@ -6,11 +6,27 @@
 
 #halfes {
     padding: 20px 30px;
+    display: flex;
 }
 
 div.half-unit-ctr {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    margin-bottom: 30px;
 }
 
+div.duration-and-city-ctr {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    margin: 0;
+}
+
+h3.title {
+    text-shadow: 0.5px 0 black;
+    letter-spacing: 0.5px;
+    margin-bottom: 3px;
+}

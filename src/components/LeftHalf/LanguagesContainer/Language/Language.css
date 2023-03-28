@@ -1,0 +1,24 @@
+.language-ctr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 120px;
+}
+
+.language-ctr span {
+    font-weight: bold;
+}
+
+.progressBar div {
+    display: inline-block;
+    width: 11px;
+    height: 11px;
+    background-color: #313c4e;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid #313c4e;
+}
+
+.progressBar div.empty {
+    background-color: white;
+}

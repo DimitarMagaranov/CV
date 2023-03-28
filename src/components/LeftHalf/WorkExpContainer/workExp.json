@@ -1,0 +1,38 @@
+[
+    {
+        "title": "CNC Operator and Team leader",
+        "company": "TED BED EAD",
+        "startDate": "02/2018",
+        "endDate": "10/2020",
+        "city": "Plovdiv",
+        "country": "Bulgaria",
+        "jobDescription": "Manufacture of mattresses"
+    },
+    {
+        "title": "Construction technician",
+        "company": "RAIZ EOOD",
+        "startDate": "08/2017",
+        "endDate": "02/2018",
+        "city": "Plovdiv",
+        "country": "Bulgaria",
+        "jobDescription": "Architecture and construction"
+    },
+    {
+        "title": "CNC Operator",
+        "company": "ALUKOSTA EOOD",
+        "startDate": "07/2016",
+        "endDate": "08/2017",
+        "city": "Plovdiv",
+        "country": "Bulgaria",
+        "jobDescription": "Architecture and construction"
+    },
+    {
+        "title": "Construction technician",
+        "company": "Jessela LT",
+        "startDate": "10/2012",
+        "endDate": "03/2016",
+        "city": "London",
+        "country": "United Kingdom",
+        "jobDescription": "Architecture and construction"
+    }
+]
