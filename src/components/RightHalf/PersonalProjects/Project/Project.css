@@ -1,8 +1,9 @@
 .project span {
     font-size: 12px;
-    display: inline-block;
+    font-weight: bold;
+    color: rgb(67, 67, 67);
 }
 
 .project h3 {
-    font-size: 14px;
+    font-size: 15px;
 }

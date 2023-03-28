@@ -1,0 +1,198 @@
+{
+    "educations": [
+        {
+            "title": "Web Developer",
+            "school": "SoftUni",
+            "startDate": "03/2018",
+            "endDate": "12/2022",
+            "city": "Sofia",
+            "country": "Bulgaria",
+            "courses": [
+                {
+                    "title": "C# Advanced",
+                    "url": "https://softuni.bg/courses/csharp-advanced"
+                },
+                {
+                    "title": "MS SQL",
+                    "url": "https://softuni.bg/opencourses/ms-sql"
+                },
+                {
+                    "title": "C# Web Basics",
+                    "url": "https://softuni.bg/courses/csharp-web-basics"
+                },
+                {
+                    "title": "JS Advanced",
+                    "url": "https://softuni.bg/courses/js-advanced"
+                },
+                {
+                    "title": "HTML & CSS",
+                    "url": "https://softuni.bg/trainings/3855/html-and-css-september-2022"
+                },
+                {
+                    "title": "C# OOP",
+                    "url": "https://softuni.bg/trainings/3958/csharp-oop-february-2023"
+                },
+                {
+                    "title": "Entity Framework Core",
+                    "url": "https://softuni.bg/courses/entity-framework-core"
+                },
+                {
+                    "title": "ASP.NET Core",
+                    "url": "https://softuni.bg/courses/asp-net-core"
+                },
+                {
+                    "title": "JS Applications",
+                    "url": "https://softuni.bg/courses/js-applications"
+                },
+                {
+                    "title": "Angular",
+                    "url": "https://softuni.bg/trainings/3856/angular-november-2022"
+                }
+            ]
+        },
+        {
+            "title": "Construction Engineer",
+            "school": "Higher School of Civil Engineering “VSU Lyuben Karavelov”",
+            "startDate": "09/2012",
+            "endDate": "Present",
+            "city": "Sofia",
+            "country": "Bulgaria"
+        }
+    ],
+    "languages": [
+        {
+            "title": "Bulgarian",
+            "level": 5
+        },
+        {
+            "title": "English",
+            "level": 4
+        }
+    ],
+    "workExperiance": [
+        {
+            "title": "CNC Operator and Team leader",
+            "company": "TED BED EAD",
+            "startDate": "02/2018",
+            "endDate": "10/2020",
+            "city": "Plovdiv",
+            "country": "Bulgaria",
+            "jobDescription": "Manufacture of mattresses"
+        },
+        {
+            "title": "Construction technician",
+            "company": "RAIZ EOOD",
+            "startDate": "08/2017",
+            "endDate": "02/2018",
+            "city": "Plovdiv",
+            "country": "Bulgaria",
+            "jobDescription": "Architecture and construction"
+        },
+        {
+            "title": "CNC Operator",
+            "company": "ALUKOSTA EOOD",
+            "startDate": "07/2016",
+            "endDate": "08/2017",
+            "city": "Plovdiv",
+            "country": "Bulgaria",
+            "jobDescription": "Architecture and construction"
+        },
+        {
+            "title": "Construction technician",
+            "company": "Jessela LT",
+            "startDate": "10/2012",
+            "endDate": "03/2016",
+            "city": "London",
+            "country": "United Kingdom",
+            "jobDescription": "Architecture and construction"
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Programming Basics with C#",
+            "url": "https://softuni.bg/certificates/details/53791/50a9ea06"
+        },
+        {
+            "title": "Programming Fundamentals",
+            "url": "https://softuni.bg/certificates/details/62078/f30e95c3"
+        },
+        {
+            "title": "C# Advanced",
+            "url": "https://softuni.bg/certificates/details/82164/9baaafec"
+        },
+        {
+            "title": "C# OOP",
+            "url": "https://softuni.bg/certificates/details/80973/b47a5883"
+        },
+        {
+            "title": "MS SQL Server",
+            "url": "https://softuni.bg/certificates/details/82808/4f00e1ed"
+        },
+        {
+            "title": "Entity Framework Core",
+            "url": "https://softuni.bg/certificates/details/86444/2f8d5dab"
+        },
+        {
+            "title": "C# Web Basics",
+            "url": "https://softuni.bg/certificates/details/96188/9b20df20"
+        },
+        {
+            "title": "ASP.NET Core",
+            "url": "https://softuni.bg/certificates/details/96054/07fd73a3"
+        },
+        {
+            "title": "JS Advanced",
+            "url": "https://softuni.bg/certificates/details/98431/ee1f61e3"
+        },
+        {
+            "title": "JS Applications",
+            "url": "https://softuni.bg/certificates/details/102491/b85b2c06"
+        },
+        {
+            "title": "HTML & CSS",
+            "url": "https://softuni.bg/certificates/details/147264/38af28a0"
+        },
+        {
+            "title": "Angular",
+            "url": "https://softuni.bg/certificates/details/153347/6c95bf72"
+        }
+    ],
+    "personalProjects": [
+        {
+            "title": "Car Dealer",
+            "description": "Defense project for ASP.NET Core MVC course at SoftUni",
+            "url": "https://github.com/DimitarMagaranov/CarDealer"
+        },{
+            "title": "Best Movies",
+            "description": "Defense project for Angular course at SoftUni",
+            "url": "https://github.com/DimitarMagaranov/best-movies"
+        },{
+            "title": "NETFLIX-Clone",
+            "description": "NETFLIX responsive page with HTML and CS",
+            "url": "https://github.com/DimitarMagaranov/Netflix-responsive-page-CLONE"
+        },{
+            "title": "Econt Delivery Integration Ap",
+            "description": "Made in two variants with React and Angular",
+            "url": "https://github.com/DimitarMagaranov/econt-integration-app-with-angular-and-react"
+        },{
+            "title": "Employee Management System",
+            "description": "An application that serves to create tasks from manager to employees",
+            "url": "https://github.com/DimitarMagaranov/employee-management-system"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "NodeJS",
+        "Angular",
+        "React",
+        "C#",
+        "UX/UI Design",
+        "Team work",
+        "Organisational skills",
+        "Leadership",
+        "Creative",
+        "Public speaking",
+        "Ability to meet deadlines",
+        "Research"
+    ]
+}

@@ -1,11 +1,8 @@
 import './Certificate.css';
+import HyperLink from '../../../HyperLink/HyperLink';
 
 const Certificate = ({data}) => {
-    const navigateToCoursePageHandler = (url) => {
-        window.location.href = url;
-    }
-
-    return <p className="certificate">{data.title} <i onClick={() => navigateToCoursePageHandler(data.url)} className="fas fa-external-link-alt hyper-link"></i></p>
+    return <p className="certificate">{data.title} <HyperLink url={data.url}/></p>
 }
 
 export default Certificate;

@@ -1,11 +1,11 @@
-import workExps from './workExp.json';
+import data from '../../../data.json';
 import WorkExp from './WorkExp/WorkExp';
 
 const WorkExpContainer = () => {
     return (
         <div className="half-unit-ctr">
             <h2>WORK EXPERIANCE</h2>
-            {workExps.map((workExp, index) => {
+            {data.workExperiance.map((workExp, index) => {
                 return <WorkExp key={index} data={workExp} />;
             })}
         </div>
