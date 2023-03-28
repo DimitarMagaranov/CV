@@ -1,0 +1,16 @@
+li.course {
+    list-style: circle;
+}
+
+li.course span {
+    color: black;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.hyper-link {
+    color: #449399;
+    font-size: 10px;
+    cursor: pointer;
+}

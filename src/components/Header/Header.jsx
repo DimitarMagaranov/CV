@@ -11,7 +11,7 @@ const Header = () => {
                 <p>
                     I am a self-driven and motivated student, possessing great analytical skills, ability to work in team environments, and strong
                     attention in detail. I am looking forward to work with a company that deals in development new technologies and advance my skills
-                    as a developer while also to have a hand in developing the innovations of tomorrow
+                    as a developer while also to have a hand in developing the innovations of tomorrow.
                 </p>
             </div>
         </div>

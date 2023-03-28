@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Web Developer",
+        "school": "SoftUni",
+        "startDate": "03/2018",
+        "endDate": "12/2022",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "courses": [
+            {
+                "title": "C# Advanced",
+                "link": "https://softuni.bg/courses/csharp-advanced"
+            },
+            {
+                "title": "MS SQL",
+                "link": "https://softuni.bg/opencourses/ms-sql"
+            },
+            {
+                "title": "C# Web Basics",
+                "link": "https://softuni.bg/courses/csharp-web-basics"
+            },
+            {
+                "title": "JS Advanced",
+                "link": "https://softuni.bg/courses/js-advanced"
+            },
+            {
+                "title": "HTML & CSS",
+                "link": "https://softuni.bg/trainings/3855/html-and-css-september-2022"
+            },
+            {
+                "title": "C# OOP",
+                "link": "https://softuni.bg/trainings/3958/csharp-oop-february-2023"
+            },
+            {
+                "title": "Entity Framework Core",
+                "link": "https://softuni.bg/courses/entity-framework-core"
+            },
+            {
+                "title": "ASP.NET Core",
+                "link": "https://softuni.bg/courses/asp-net-core"
+            },
+            {
+                "title": "JS Applications",
+                "link": "https://softuni.bg/courses/js-applications"
+            },
+            {
+                "title": "Angular",
+                "link": "https://softuni.bg/trainings/3856/angular-november-2022"
+            }
+        ]
+    },
+    {
+        "title": "Construction Engineer",
+        "school": "Higher School of Civil Engineering “VSU Lyuben Karavelov”",
+        "startDate": "09/2012",
+        "endDate": "Present",
+        "city": "Sofia",
+        "country": "Bulgaria"
+    }
+]

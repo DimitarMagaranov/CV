@@ -1,5 +1,16 @@
 #container {
-    max-width: 1024px;
+    max-width: 803px;
     font-size: 14px;
     margin: auto;
 }
+
+#halfes {
+    padding: 20px 30px;
+}
+
+div.half-unit-ctr {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+

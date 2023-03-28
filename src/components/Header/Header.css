@@ -11,6 +11,7 @@
     overflow: hidden;
     border-radius: 50%;
     position: relative;
+    border: 0.1px solid rgb(183, 183, 183);
 }
 
 #img-ctr img {
@@ -20,4 +21,14 @@
 
 #name-summary-ctr {
     width: 80%;
+}
+
+#name-summary-ctr h1 {
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+#name-summary-ctr p {
+    font-weight: 600;
+    font-size: 13px;
 }
