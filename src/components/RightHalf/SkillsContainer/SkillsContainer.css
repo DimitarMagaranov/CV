@@ -1,0 +1,9 @@
+.half-unit-ctr.skills-ctr {
+
+}
+
+.half-unit-ctr.skills-ctr .skills {
+    display:flex;
+    flex-wrap: wrap;
+    gap: 7px;
+}
