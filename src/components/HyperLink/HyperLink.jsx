@@ -1,11 +1,8 @@
+import { Link } from 'react-router-dom';
 import './HyperLink.css';
 
 const HyperLink = ({url}) => {
-    const navigateToCourseUrlHandler = () => {
-        window.location.href = url;
-    }
-
-    return <i onClick={navigateToCourseUrlHandler} className="fas fa-external-link-alt hyper-link"></i>
+    return <Link to={url}><i className="fas fa-external-link-alt hyper-link"></i></Link>
 }
 
 export default HyperLink;
