@@ -1,6 +1,6 @@
 import data from '../../../data.json';
 import Job from './Job/Job';
-import UnitContainer from '../../UnitContainer/UnitContainer';
+import UnitContainer from '../../Shared/UnitContainer/UnitContainer';
 
 const WorkExperience = () => {
     return (

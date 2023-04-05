@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     gap: 30px;
-    padding: 20px;
+    padding: 0 20px;
 }
 
 #img-ctr {
@@ -20,15 +20,18 @@
 }
 
 #name-summary-ctr {
-    width: 80%;
+    max-width: 80%;
 }
 
 #name-summary-ctr h1 {
     font-size: 30px;
     letter-spacing: 1px;
+    color: #313c4e;
+    margin-bottom: 10px;
 }
 
 #name-summary-ctr p {
     font-weight: 600;
     font-size: 14px;
+    margin-top: 0;
 }

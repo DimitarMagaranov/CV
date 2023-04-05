@@ -1,6 +1,6 @@
 import data from '../../../data.json';
 import Language from './Language/Language';
-import UnitContainer from '../../UnitContainer/UnitContainer';
+import UnitContainer from '../../Shared/UnitContainer/UnitContainer';
 
 const Languages = () => {
     return (

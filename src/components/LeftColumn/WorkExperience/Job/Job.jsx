@@ -1,23 +1,13 @@
 import './Job.css';
+import DurationAndCity from '../../../Shared/DurationAndCity/DurationAndCity';
 
 const Job = ({ data }) => {
     return (
-        <div className="job">
-            <h3 className="title">- {data.title}</h3>
-            <div className="content">
-                <h3 className="company">{data.company}</h3>
-                <div className="duration-and-city-ctr">
-                    <p>
-                        {data.startDate} - {data.endDate}
-                    </p>
-                    <p>
-                        {data.city}, {data.country}
-                    </p>
-                </div>
-                <p className="description">
-                    {data.jobDescription}
-                </p>
-            </div>
+        <div className="sub-container job">
+            <h3 className="title">{data.title}</h3>
+            <h3 className="company">{data.company}</h3>
+            <DurationAndCity startDate={data.startDate} endDate={data.endDate} city={data.city} country={data.country} />
+            <p className="description">{data.jobDescription}</p>
         </div>
     );
 };

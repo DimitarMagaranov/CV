@@ -1,5 +1,5 @@
 import Education from './Education/Education';
-import UnitContainer from '../../UnitContainer/UnitContainer';
+import UnitContainer from '../../Shared/UnitContainer/UnitContainer';
 import data from '../../../data.json';
 
 const Educations = () => {

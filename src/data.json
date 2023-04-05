@@ -81,7 +81,7 @@
         },
         {
             "title": "Construction technician",
-            "company": "RAIZ EOOD",
+            "company": "RAIZ LTD",
             "startDate": "08/2017",
             "endDate": "02/2018",
             "city": "Plovdiv",
@@ -90,7 +90,7 @@
         },
         {
             "title": "CNC Operator",
-            "company": "ALUKOSTA EOOD",
+            "company": "ALUKOSTA LTD",
             "startDate": "07/2016",
             "endDate": "08/2017",
             "city": "Plovdiv",
@@ -99,7 +99,7 @@
         },
         {
             "title": "Construction technician",
-            "company": "Jessela LT",
+            "company": "Jessela LTD",
             "startDate": "10/2012",
             "endDate": "03/2016",
             "city": "London",
@@ -186,12 +186,13 @@
         "Angular",
         "React",
         "C#",
+        "ASP.NET Core",
         "UX/UI Design",
-        "Team work",
         "Organisational skills",
+        "Team work",
         "Leadership",
-        "Creative",
         "Public speaking",
+        "Creative",
         "Ability to meet deadlines",
         "Research"
     ]

@@ -5,7 +5,7 @@ import Certificates from './Certificates/Certificates';
 
 const RightColumn = () => {
     return (
-        <div id="right-half">
+        <div id="right-column">
             <Skills />
             <PersonalProjects />
             <Certificates />

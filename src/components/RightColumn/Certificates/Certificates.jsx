@@ -1,13 +1,15 @@
 import data from '../../../data.json';
 import Certificate from './Certificate/Certificate';
-import UnitContainer from '../../UnitContainer/UnitContainer';
+import UnitContainer from '../../Shared/UnitContainer/UnitContainer';
 
 const Certificates = () => {
     return (
         <UnitContainer title={'CERTIFICATES'}>
-            {data.certificates.map((certificate) => {
-                return <Certificate data={certificate} />;
-            })}
+            <div className="sub-container">
+                {data.certificates.map((certificate) => {
+                    return <Certificate data={certificate} />;
+                })}
+            </div>
         </UnitContainer>
     );
 };

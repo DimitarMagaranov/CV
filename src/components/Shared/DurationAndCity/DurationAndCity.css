@@ -1,0 +1,13 @@
+.duration-and-city-ctr {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.duration-and-city-ctr p {
+    margin: 0;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 600;
+    color: #313c4e;
+}

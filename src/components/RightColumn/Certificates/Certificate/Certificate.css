@@ -1,5 +1,6 @@
 p.certificate {
     margin: 0;
+    margin-bottom: 6px;
     display: flex;
     align-items: center;
     font-weight: bold;

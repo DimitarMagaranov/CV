@@ -1,7 +1,8 @@
-.project span {
+.project p {
     font-size: 12px;
     font-weight: bold;
     color: rgb(67, 67, 67);
+    margin: 0;
 }
 
 .project h3 {

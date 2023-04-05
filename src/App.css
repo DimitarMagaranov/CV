@@ -1,7 +1,7 @@
 #container {
-    max-width: 880px;
+    max-width: 940px;
     font-size: 14px;
-    margin: auto;
+    margin: 20px auto;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: white;
 }
@@ -15,17 +15,14 @@ div.unit-container {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    margin-bottom: 30px;
-}
-
-div.duration-and-city-ctr {
-    display: flex;
-    justify-content: space-between;
-    margin-right: 30px;
+    margin-bottom: 22px;
 }
 
 h3 {
     margin: 0;
+    font-weight: 500;
+    font-weight: bold;
+    margin-bottom: 2px;
 }
 
 h3.title {
@@ -40,4 +37,9 @@ h2 {
     letter-spacing: 2px;
     color: #313c4e;
     text-shadow: 1.5px 0 #313c4e;
+}
+
+.sub-container {
+    margin: 0;
+    padding-left: 10px;
 }

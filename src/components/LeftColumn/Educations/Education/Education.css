@@ -1,4 +1,7 @@
 .courses ul {
+    margin: 0;
+    padding: 0;
+    padding-left: 16px;
     list-style-type: disc;
     -webkit-columns: 2;
     -moz-columns: 2;
@@ -6,42 +9,21 @@
     list-style-position: inside;
 }
 
-div.content {
-    padding-left: 10px;
-}
-
-.education h3.school {
-    font-weight: 500;
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-.duration-and-city-ctr p {
-    margin: 0;
-    margin-bottom: 6px;
-    font-size: 12px;
-    font-style: italic;
-    font-weight: 600;
-    color: #313c4e;
-}
-
 .courses .title {
     margin: 0;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
     font-style: italic;
     font-size: 11px;
     font-weight: 600;
     color: #313c4e;
 }
 
-.courses ul {
-    margin: 0;
-    padding: 0;
-    padding-left: 16px;
-}
-
 .courses ul li {
     font-weight: 600;
     font-size: 12.5px;
+    margin-bottom: 5px;
+}
+
+#education .duration-and-city-ctr p {
     margin-bottom: 5px;
 }

@@ -5,7 +5,7 @@ import Languages from './Languages/Languages';
 
 const LeftColumn = () => {
     return (
-        <div id="left-half">
+        <div id="left-column">
             <Educations />
             <WorkExperience />
             <Languages />

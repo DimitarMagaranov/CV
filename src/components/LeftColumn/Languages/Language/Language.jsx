@@ -13,11 +13,11 @@ const Language = ({data}) => {
                 temp.push(<div className="empty"></div>);
             }
         }
-        setProgress(() => temp);
-    }, [data])
+        setProgress(temp);
+    }, [])
 
     return (
-        <div className="language-ctr">
+        <div className="sub-container language-ctr">
             <span>{data.title}</span>
             <div className="progressBar">
                 {progress}

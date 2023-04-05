@@ -1,17 +1,6 @@
-div.job {
-    margin-bottom: 12px;
-}
-
-h3.company {
-    margin-bottom: 5px;
-}
 
 p.description {
     margin: 0;
     font-style: italic;
     color: grey;
-}
-
-.duration-and-city-ctr p {
-    margin-bottom: 5px;
 }

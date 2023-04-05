@@ -1,6 +1,6 @@
 import data from '../../../data.json';
 import Project from './Project/Project';
-import UnitContainer from '../../UnitContainer/UnitContainer';
+import UnitContainer from '../../Shared/UnitContainer/UnitContainer';
 
 const PersonalProjects = () => {
     return (

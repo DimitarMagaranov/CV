@@ -3,11 +3,11 @@ import HyperLink from '../../../HyperLink/HyperLink';
 
 const Project = ({ data }) => {
     return (
-        <div className="project">
+        <div className="sub-container project">
             <h3>{data.title}</h3>
-            <span>
-                {data.description} <HyperLink url={data.url}/>
-            </span>
+            <p>
+                {data.description} <HyperLink url={data.url} />
+            </p>
         </div>
     );
 };
