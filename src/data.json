@@ -162,19 +162,23 @@
             "title": "Car Dealer",
             "description": "Defense project for ASP.NET Core MVC course at SoftUni",
             "url": "https://github.com/DimitarMagaranov/CarDealer"
-        },{
+        },
+        {
             "title": "Best Movies",
             "description": "Defense project for Angular course at SoftUni",
             "url": "https://github.com/DimitarMagaranov/best-movies"
-        },{
+        },
+        {
             "title": "NETFLIX-Clone",
             "description": "NETFLIX responsive page with HTML and CS",
             "url": "https://github.com/DimitarMagaranov/Netflix-responsive-page-CLONE"
-        },{
+        },
+        {
             "title": "Econt Delivery Integration App",
             "description": "Made in two variants with React and Angular",
             "url": "https://github.com/DimitarMagaranov/econt-integration-app-with-angular-and-react"
-        },{
+        },
+        {
             "title": "Employee Management System",
             "description": "An application that serves to create tasks from manager to employees",
             "url": "https://github.com/DimitarMagaranov/employee-management-system"
@@ -187,13 +191,13 @@
         "React",
         "C#",
         "ASP.NET Core",
-        "UX/UI Design",
         "Organisational skills",
+        "UX/UI Design",
         "Team work",
         "Leadership",
         "Public speaking",
         "Creative",
-        "Ability to meet deadlines",
-        "Research"
+        "Research",
+        "Ability to meet deadlines"
     ]
 }

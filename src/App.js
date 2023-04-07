@@ -5,16 +5,16 @@ import LeftColumn from './components/LeftColumn/LeftColumn';
 import RightColumn from './components/RightColumn/RightColumn';
 
 function App() {
-  return (
-    <div id="container">
-      <Header />
-      <Contacts />
-      <div id="columns">
-        <LeftColumn />
-        <RightColumn />
-      </div>
-    </div>
-  );
+    return (
+        <div id="container">
+            <Header />
+            <Contacts />
+            <div id="columns">
+                <LeftColumn />
+                <RightColumn />
+            </div>
+        </div>
+    );
 }
 
 export default App;

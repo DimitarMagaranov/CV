@@ -1,21 +1,7 @@
-#container {
-    max-width: 940px;
-    font-size: 14px;
-    margin: 20px auto;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: white;
-}
-
 #columns {
-    padding: 20px 30px;
+    padding: 20px 20px 0 30px;
     display: flex;
-}
-
-div.unit-container {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin-bottom: 22px;
+    justify-content: space-between;
 }
 
 h3 {

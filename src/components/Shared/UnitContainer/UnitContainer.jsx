@@ -1,3 +1,5 @@
+import './UnitContainer.css';
+
 const UnitContainer = (props) => {
     return (
         <div className={`unit-container ${props.title === 'SKILLS' ? 'skills-ctr' : ''}`}>

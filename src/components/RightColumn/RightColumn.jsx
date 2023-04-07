@@ -10,7 +10,7 @@ const RightColumn = () => {
             <PersonalProjects />
             <Certificates />
         </div>
-    )
-}
+    );
+};
 
 export default RightColumn;

@@ -5,6 +5,6 @@ li.course {
 li.course span {
     color: black;
     display: flex;
-    gap: 6px;
+    gap: 3px;
     align-items: center;
 }
